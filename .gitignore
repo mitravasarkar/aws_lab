@@ -14,6 +14,6 @@
 .terraformrc
 terraform.rc
 
-**/backend.tf
+*/backend.tf
 **/.terraform.lock.hcl
 **/terraform.tfstate
